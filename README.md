@@ -1,3 +1,7 @@
+# NOTE: Added these to andygrove/sqlparser-rs
+# 1. Ability to parse parens in where clause
+# 2. Allow `limit` after `order by`
+
 # Extensible SQL Lexer and Parser for Rust
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
